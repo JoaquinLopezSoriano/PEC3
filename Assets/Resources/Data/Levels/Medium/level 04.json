@@ -1,0 +1,333 @@
+{
+  "buildItems": [
+    {
+      "column": 0,
+      "row": 5,
+      "markerType": 0
+    },
+    {
+      "column": 2,
+      "row": 1,
+      "boxType": 1
+    },
+    {
+      "column": 3,
+      "row": 3,
+      "markerType": 1
+    },
+    {
+      "column": 3,
+      "row": 5,
+      "boxType": 0
+    },
+    {
+      "column": 4,
+      "row": 0,
+      "markerType": 1
+    },
+    {
+      "column": 5,
+      "row": 3,
+      "boxType": 1
+    },
+    {
+      "column": 6,
+      "row": 1,
+      "itemType": "Player"
+    },
+    {
+      "column": 7,
+      "row": 4,
+      "boxType": 1
+    },
+    {
+      "column": 8,
+      "row": 5,
+      "markerType": 1
+    }
+  ],
+  "missingGround": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 1
+    },
+    {
+      "x": 0,
+      "y": 2
+    },
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 2,
+      "y": 0
+    },
+    {
+      "x": 2,
+      "y": 2
+    },
+    {
+      "x": 2,
+      "y": 3
+    },
+    {
+      "x": 2,
+      "y": 4
+    },
+    {
+      "x": 3,
+      "y": 0
+    },
+    {
+      "x": 3,
+      "y": 2
+    },
+    {
+      "x": 3,
+      "y": 4
+    },
+    {
+      "x": 5,
+      "y": 0
+    },
+    {
+      "x": 5,
+      "y": 1
+    },
+    {
+      "x": 5,
+      "y": 2
+    },
+    {
+      "x": 5,
+      "y": 4
+    },
+    {
+      "x": 6,
+      "y": 0
+    },
+    {
+      "x": 6,
+      "y": 4
+    },
+    {
+      "x": 7,
+      "y": 0
+    },
+    {
+      "x": 7,
+      "y": 1
+    },
+    {
+      "x": 7,
+      "y": 2
+    },
+    {
+      "x": 8,
+      "y": 0
+    },
+    {
+      "x": 8,
+      "y": 1
+    },
+    {
+      "x": 8,
+      "y": 2
+    },
+    {
+      "x": 8,
+      "y": 3
+    },
+    {
+      "x": 8,
+      "y": 4
+    }
+  ],
+  "columns": 9,
+  "rows": 6,
+  "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+  "completionMovementHistory": [
+    {
+      "movementType": 2,
+      "timeMs": 2572
+    },
+    {
+      "movementType": 2,
+      "timeMs": 2700
+    },
+    {
+      "movementType": 3,
+      "timeMs": 3107
+    },
+    {
+      "movementType": 3,
+      "timeMs": 3317
+    },
+    {
+      "movementType": 1,
+      "timeMs": 3791
+    },
+    {
+      "movementType": 1,
+      "timeMs": 3993
+    },
+    {
+      "movementType": 1,
+      "timeMs": 4193
+    },
+    {
+      "movementType": 2,
+      "timeMs": 4348
+    },
+    {
+      "movementType": 0,
+      "timeMs": 4553
+    },
+    {
+      "movementType": 3,
+      "timeMs": 4794
+    },
+    {
+      "movementType": 3,
+      "timeMs": 4996
+    },
+    {
+      "movementType": 3,
+      "timeMs": 5190
+    },
+    {
+      "movementType": 2,
+      "timeMs": 5316
+    },
+    {
+      "movementType": 2,
+      "timeMs": 5444
+    },
+    {
+      "movementType": 1,
+      "timeMs": 5648
+    },
+    {
+      "movementType": 1,
+      "timeMs": 5849
+    },
+    {
+      "movementType": 1,
+      "timeMs": 6051
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6258
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6462
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6661
+    },
+    {
+      "movementType": 3,
+      "timeMs": 6857
+    },
+    {
+      "movementType": 3,
+      "timeMs": 7056
+    },
+    {
+      "movementType": 3,
+      "timeMs": 7264
+    },
+    {
+      "movementType": 0,
+      "timeMs": 7403
+    },
+    {
+      "movementType": 0,
+      "timeMs": 7529
+    },
+    {
+      "movementType": 0,
+      "timeMs": 7662
+    },
+    {
+      "movementType": 0,
+      "timeMs": 7797
+    },
+    {
+      "movementType": 1,
+      "timeMs": 8013
+    },
+    {
+      "movementType": 1,
+      "timeMs": 8212
+    },
+    {
+      "movementType": 3,
+      "timeMs": 8410
+    },
+    {
+      "movementType": 3,
+      "timeMs": 8614
+    },
+    {
+      "movementType": 2,
+      "timeMs": 8746
+    },
+    {
+      "movementType": 2,
+      "timeMs": 8876
+    },
+    {
+      "movementType": 2,
+      "timeMs": 9005
+    },
+    {
+      "movementType": 2,
+      "timeMs": 9136
+    },
+    {
+      "movementType": 1,
+      "timeMs": 9412
+    },
+    {
+      "movementType": 1,
+      "timeMs": 9611
+    },
+    {
+      "movementType": 1,
+      "timeMs": 9817
+    },
+    {
+      "movementType": 0,
+      "timeMs": 9942
+    },
+    {
+      "movementType": 0,
+      "timeMs": 10074
+    },
+    {
+      "movementType": 0,
+      "timeMs": 10202
+    },
+    {
+      "movementType": 0,
+      "timeMs": 10332
+    }
+  ],
+  "localIdentifier": "5e06c585-3045-44d1-90a4-3cbc05ca66ea"
+}

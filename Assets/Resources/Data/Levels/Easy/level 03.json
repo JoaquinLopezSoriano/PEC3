@@ -1,0 +1,86 @@
+{
+  "buildItems": [
+    {
+      "column": 0,
+      "row": 1,
+      "markerType": 1
+    },
+    {
+      "column": 1,
+      "row": 2,
+      "itemType": "Player"
+    },
+    {
+      "column": 2,
+      "row": 2,
+      "boxType": 2
+    },
+    {
+      "column": 2,
+      "row": 4,
+      "boxType": 1
+    },
+    {
+      "column": 3,
+      "row": 0,
+      "markerType": 1
+    },
+    {
+      "column": 3,
+      "row": 1,
+      "boxType": 1
+    }
+  ],
+  "missingGround": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 0,
+      "y": 2
+    },
+    {
+      "x": 0,
+      "y": 3
+    },
+    {
+      "x": 0,
+      "y": 4
+    },
+    {
+      "x": 0,
+      "y": 5
+    },
+    {
+      "x": 1,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 0
+    },
+    {
+      "x": 4,
+      "y": 1
+    },
+    {
+      "x": 4,
+      "y": 4
+    },
+    {
+      "x": 4,
+      "y": 5
+    }
+  ],
+  "columns": 5,
+  "rows": 6,
+  "authorDeviceIdentifier": "84cdace88b40264d699fe5524840b0018ba611e8",
+  "completionMovementHistory": [
+    {
+      "movementType": 2,
+      "timeMs": 514
+    }
+  ],
+  "localIdentifier": "ed2de629-f035-48b2-b5b3-7856ecb59b3b"
+}
