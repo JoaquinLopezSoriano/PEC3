@@ -39,6 +39,11 @@
       "column": 6,
       "row": 3,
       "markerType": 0
+    },
+    {
+      "column": 7,
+      "row": 1,
+      "boxType": 2
     }
   ],
   "missingGround": [
@@ -81,10 +86,6 @@
     {
       "x": 4,
       "y": 6
-    },
-    {
-      "x": 5,
-      "y": 0
     },
     {
       "x": 5,
